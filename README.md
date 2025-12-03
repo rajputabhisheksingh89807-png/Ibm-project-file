@@ -1,10 +1,10 @@
 # Ibm-project-file
 Ibm presentation task
-project on token 
-make group 4
+project on python basic token  
+made 
 by..
-abhishek singh
-aditya Upadhyay 
-bhaskar tirwari
-Mohammad ali sleem 
-aryan pandey
+abhishek singh,
+aditya Upadhyay,
+bhaskar tirwari,
+Mohammad ali sleem,
+aryan pandey,
